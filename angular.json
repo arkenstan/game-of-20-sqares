@@ -23,8 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles/styles.css"
             ],
+            "stylePreprocessorOptions":{
+              "includePaths":["src/styles"]
+            },
             "scripts": []
           },
           "configurations": {
